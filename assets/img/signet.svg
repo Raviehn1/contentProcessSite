@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title description">
+  <title id="title">Content Process / Portal / Signet</title>
+  <desc id="description">Ein ruhiger Rahmen bündelt ein einzelnes Content-Modul.</desc>
+  <path fill="#343332" fill-rule="evenodd" d="M40 12H25C14 12 8 18 8 29V67C8 78 14 84 25 84H40V70H26C23 70 22 69 22 65V31C22 27 23 26 26 26H40ZM56 12H71C82 12 88 18 88 29V67C88 78 82 84 71 84H56V70H70C73 70 74 69 74 65V31C74 27 73 26 70 26H56Z"/>
+  <path fill="#AC7258" fill-rule="evenodd" d="M38 34H58V54H38Z"/>
+</svg>
