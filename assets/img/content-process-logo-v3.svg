@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 150" role="img" aria-labelledby="title desc"><title id="title">Content Process</title><desc id="desc">Content Process logo with a circular CP process mark</desc><g transform="translate(8 11)"><path d="M79 13C44 2 10 27 10 64c0 37 34 62 69 51V91c-21 9-45-5-45-27s24-36 45-27V13z" fill="#637D9B"/><path d="M72 28h25c25 0 41 15 41 36 0 20-15 35-38 36h-3v24H72V69h27c8 0 13-3 13-9 0-6-5-9-13-9H72V28z" fill="#AFC2D7"/><path d="M80 12l14 14-14 14V12z" fill="#637D9B"/><path d="M73 116l-14-14 14-14v28z" fill="#AFC2D7"/></g><text x="166" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2.2" fill="#EDF3FF">Content</text><text x="407" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="650" letter-spacing="-2.2" fill="#9CB3CC">Process</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 300" role="img" aria-labelledby="title desc">
+  <title id="title">Content Process</title>
+  <desc id="desc">Content Process logo with the original version 3 circular process mark and wordmark.</desc>
+  <defs>
+    <linearGradient id="cpDark" x1="285" y1="180" x2="650" y2="460" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7E98B7"/>
+      <stop offset="1" stop-color="#5F7898"/>
+    </linearGradient>
+    <linearGradient id="cpLight" x1="620" y1="230" x2="905" y2="595" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C5D3E2"/>
+      <stop offset="1" stop-color="#8FA8C4"/>
+    </linearGradient>
+    <linearGradient id="wordLight" x1="760" y1="0" x2="1430" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B6C7D9"/>
+      <stop offset="1" stop-color="#8FA8C4"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(-54 -42) scale(.35)">
+    <path d="M721 210 C669 168 601 144 526 144 C360 144 236 262 236 419 C236 566 350 676 504 676 L621 676 L621 598 L506 598 C396 598 316 520 316 418 C316 309 405 222 528 222 C591 222 648 245 694 287 L694 244 L721 210 Z" fill="url(#cpDark)"/>
+    <path d="M753 236 L673 236 L673 314 L833 314 C937 314 1013 388 1013 481 C1013 576 935 647 828 647 L816 647 L816 534 C816 502 790 476 758 476 C726 476 700 502 700 534 L700 732 C700 764 726 790 758 790 C790 790 816 764 816 732 L816 725 L838 725 C986 725 1093 619 1093 481 C1093 345 989 236 846 236 L905 181 L860 138 L753 236 Z" fill="url(#cpLight)"/>
+    <path d="M585 684 L701 684 L701 762 L585 762 L533 814 L533 724 Z" fill="#8EA8C5"/>
+  </g>
+
+  <text x="380" y="195" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="126" font-weight="700" letter-spacing="-4" fill="#EDF3FF">Content</text>
+  <text x="835" y="195" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="126" font-weight="650" letter-spacing="-4" fill="url(#wordLight)">Process</text>
+</svg>
